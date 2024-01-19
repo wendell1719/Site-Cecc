@@ -1,0 +1,27 @@
+header {
+    background-color:green;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    padding-left: 80px;
+    padding-right:80px ;
+    padding-top :24px;
+    padding-bottom :24px;
+
+}
+
+header nav a {
+
+    color:black;
+     font-weight:600 ;
+     padding:12px;
+     text-decoration: none;
+
+}
+
+. container,
+p {
+    display:flex;
+    align-items: center ;
+
+}
